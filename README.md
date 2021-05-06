@@ -1,4 +1,4 @@
-# vue_shop
+# graduation-front-program
 
 ## Project setup
 ```
