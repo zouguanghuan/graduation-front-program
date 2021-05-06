@@ -1,0 +1,27 @@
+/* 全局样式表 */
+html, body, #app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.el-card {
+  margin-top: 15px;
+}
+.el-breadcrumb {
+  margin-top: 15px;
+  font-size: 12px;
+}
+.el-table {
+  font-size: 12px;
+  margin-top: 15px;
+}
+.el-pagination {
+  margin-top: 25px;
+}
+.role-center {
+  display: flex;
+  align-items: center;
+}
+.el-table-column {
+  text-align: center!important;
+}
